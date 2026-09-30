@@ -1,0 +1,10 @@
+No new code or data license has been granted by preparing this package.
+
+The study authors and their institutions must select and approve the licenses
+and the permitted access conditions before public release. Participant-level
+data may be subject to consent and institutional restrictions independent of
+the software license. Preserve any existing third-party notices in archived
+source files. CANlab, SPM and other dependencies retain their own licenses.
+
+The user-supplied code/kmeans_Matlab.m retains its MathWorks copyright notice.
+No redistribution license for that third-party implementation is granted here.

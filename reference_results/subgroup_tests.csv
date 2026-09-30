@@ -1,0 +1,13 @@
+Outcome,Group1,Group2,N1,N2,T,P
+N-back brain,Controls,Resilient patients,49,17,-1.9695683218802627,0.05321938289642663
+N-back brain,Controls,Severe Patients,49,8,2.4654559564456777,0.016832725220723415
+N-back brain,Resilient patients,Severe Patients,17,8,3.9650360150669606,0.000613546985743634
+N-back behavior,Controls,Resilient patients,49,17,-0.23474533203049675,0.8151558235455162
+N-back behavior,Controls,Severe Patients,49,8,3.7068167319412537,0.0004892059342563346
+N-back behavior,Resilient patients,Severe Patients,17,8,3.576904315479451,0.0015978994100894447
+Multisensory brain,Controls,Resilient patients,62,19,-1.8246867239374,0.07182873134904545
+Multisensory brain,Controls,Severe Patients,62,9,1.6723313407672822,0.09898798220192531
+Multisensory brain,Resilient patients,Severe Patients,19,9,2.423760758826105,0.02262048206857588
+Cold-pain brain,Controls,Resilient patients,62,19,-0.43788448532983554,0.6626649525217362
+Cold-pain brain,Controls,Severe Patients,62,10,0.8529685348152691,0.3965859778948118
+Cold-pain brain,Resilient patients,Severe Patients,19,10,1.3190568491491472,0.1982283297348675

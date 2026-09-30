@@ -1,0 +1,20 @@
+Covariate,ρ with outcome,p,Adjusted ρ,Adjusted p,n
+cns_eyes (CNS Eyes exam),-0.031,0.8861,-0.613,0.0019,25
+cns_crnl_nrv_ii (Cranial nerve II),0.039,0.8548,-0.460,0.0272,25
+cns_crnl_nrv_iii (Cranial nerve III),0.071,0.7424,-0.610,0.0020,25
+cns_crnl_nrv_iv (Cranial nerve IV),0.209,0.3259,-0.468,0.0243,25
+cns_crnl_nrv_vi (Cranial nerve VI),0.209,0.3259,-0.468,0.0243,25
+pfs_phys (Physical fatigue),-0.261,0.2173,-0.450,0.0313,25
+pfs_mental (Mental fatigue),-0.085,0.6939,-0.492,0.0171,25
+cns_gait_statn (Gait and station),0.266,0.2098,-0.389,0.0665,25
+nmdas_ssi_1 (Psychiatric symptoms),-0.346,0.0978,-0.335,0.1182,25
+Covariate,Δ|ρ|,CI lower,CI upper,Bootstrap p,Decrease
+cns_eyes (CNS Eyes exam),-0.154,-0.411,0.129,1.000,FALSE
+cns_crnl_nrv_ii (Cranial nerve II),-0.001,-0.110,0.128,1.000,FALSE
+cns_crnl_nrv_iii (Cranial nerve III),-0.151,-0.421,0.214,1.000,FALSE
+cns_crnl_nrv_iv (Cranial nerve IV),-0.008,-0.295,0.383,1.000,FALSE
+cns_crnl_nrv_vi (Cranial nerve VI),-0.008,-0.299,0.386,1.000,FALSE
+pfs_phys (Physical fatigue),0.010,-0.327,0.343,0.921,FALSE
+pfs_mental (Mental fatigue),-0.033,-0.262,0.200,1.000,FALSE
+cns_gait_statn (Gait and station),0.071,-0.112,0.300,0.466,FALSE
+nmdas_ssi_1 (Psychiatric symptoms),0.125,-0.112,0.379,0.305,FALSE

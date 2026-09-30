@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the associated MiSBIE manuscript when using these data or scripts. Add the publication DOI and repository release DOI when assigned."
+title: "MiSBIE analysis data and code"
+type: software
+version: "0.1.2-figure1"
+authors:
+  - family-names: "Bo"
+    given-names: "Ke"
+  - family-names: "Kelly"
+    given-names: "Catherine"
+  - family-names: "Trumpff"
+    given-names: "Caroline"
+  - family-names: "Hirano"
+    given-names: "Michio"
+  - family-names: "Thiebaut de Schotten"
+    given-names: "Michel"
+  - family-names: "Picard"
+    given-names: "Martin"
+  - family-names: "Wager"
+    given-names: "Tor D."
+abstract: "Data and scripts supporting Mitochondrial Energy Transformation Capacity Influences Brain Activation During Sensory, Affective, and Cognitive Tasks."

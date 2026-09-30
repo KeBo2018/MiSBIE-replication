@@ -1,0 +1,277 @@
+[
+  {
+    "source_file": "DataMatrix_Behavior.xlsx",
+    "sha256": "1f17a0fc39c0a2624118e134cce12fae1714d8af1e05abede5da13a80bf8512a",
+    "role": "Figures 3 and 4; eligibility; motion; power"
+  },
+  {
+    "source_file": "Ke_DataforCorrelationMatrix_Cleaned_CK.xlsx",
+    "sha256": "9de9667f8d5076c6cb0e96c68ccad7b3d49930e13ce91d90d09764390e3ef0f8",
+    "role": "Figure 1 phenotype scores and clustering"
+  },
+  {
+    "source_file": "Ke_DataforCorrelationMatrix_Cleaned_CK_Combined_SingleItem.xlsx",
+    "sha256": "7658f91bb9d95f660ff9a95c44aa8814b6dc397edb3d083496937dca4cc8e05f",
+    "role": "Supplementary item-level correlations and sensitivity"
+  },
+  {
+    "source_file": "MiSBIEProject-DemographicsForKe_DATA_2025-06-06_17.xlsx",
+    "sha256": "433ecbfd6d5f8471166bf5da1a3f5d724b7304aaa1e49212304e9f9727c425a2",
+    "role": "Supplementary demographic comparisons"
+  },
+  {
+    "source_file": "WhiteMatter_86Sub.mat",
+    "sha256": "7a11b4dc3ad1a0f2f23a5b94cfa31255edccdb25d916fd8a63336d38f71f7b65",
+    "role": "Derived structural sensitivity measures"
+  },
+  {
+    "source_file": "corrected_table_s1.json",
+    "sha256": "e7e9a24c0506a1b67eb1794ea3d2b8831a9af21ab8a367f7f15bc36dffc0d887",
+    "role": "Reconciled Table S1 full-precision reference"
+  },
+  {
+    "source_file": "hedges_g_summary_with_descriptives_and_p_values_CK_Final.xlsx",
+    "sha256": "3dfe0386dd02057c7cbb73aafd12decbe68427d4e78dd7ead9acb016a7200366",
+    "role": "Original full-precision summaries for unavailable Table S1 variables"
+  },
+  {
+    "source_file": "MiSBIE_Supplemental_Tables_Reconciled.xlsx",
+    "sha256": "27345526bc7f0e7d27fd3889da60fc208239e207cf4cd1b746afb909828a364b",
+    "role": "Final reported supplementary tables"
+  },
+  {
+    "source_file": "MiSBIE_Current_Biology_Supplement_Final_Check_Clean.docx",
+    "sha256": "1251453e3ec10dfc89b7b8b18acbe8f9787392f9c546f437f1338006722ffb1a",
+    "role": "Final supplementary table display values"
+  },
+  {
+    "source_file": "Hedgeg_Ke_Preprocessed_WedgePlot.xlsx",
+    "sha256": "eaba06042ada8619ae1c0a91a6917d17c3bd274d5f5e8b76199ac25b7cb4ca4e",
+    "role": "Archival Figure 1A selection/effect-size input"
+  },
+  {
+    "source_file": "Hedgeg_Ke_Preprocessed_ItemLevel.xlsx",
+    "sha256": "71827820c5eefe2898819dd73fa53f170c7d3d4611c4b3edecabba1b425f300a",
+    "role": "Archival Figure 1A selection/effect-size input"
+  },
+  {
+    "source_file": "Hedgeg_Ke_Preprocessed_WithFDR.xlsx",
+    "sha256": "f22bdd33a09737af9423f102e27acf9f9447fa961d54dd05db6c4bf7129bae88",
+    "role": "Archival Figure 1A selection/effect-size input"
+  },
+  {
+    "source_file": "partial_correlation_matrix.xlsx",
+    "sha256": "6579a2ba1881688902cb5fe67d311cd91e1f0109fd2d485dc23ad4459cd2eb51",
+    "role": "Archived Figure 1 partial-correlation matrix reference"
+  },
+  {
+    "source_file": "Paired_condition_scores.mat",
+    "sha256": "8e7ee0a7795ddd2a4b78d9d0b352c88f79be2a351f5d7a5bbeb11e499a829821",
+    "role": "Figure 2 final CV split and 100-repetition summary"
+  },
+  {
+    "source_file": "Nback_100_500Filter.mat",
+    "sha256": "215965aa291712b32e489e56a1a246dd2fab4b6ba32417223b516ffdd9fd69b2",
+    "role": "100 cross-validation repetition contrast scores; imaging arrays not copied"
+  },
+  {
+    "source_file": "Multisensory_100_All.mat",
+    "sha256": "5b6d5c5fb27bd37428290b5ac0ddb91e78f613973c64dfe73722d0f60da786cd",
+    "role": "100 cross-validation repetition contrast scores; imaging arrays not copied"
+  },
+  {
+    "source_file": "Cold_100_All.mat",
+    "sha256": "148d9cd98d0df1e893ae9940552f714bfdace74044d59127803c1a0b7b93292b",
+    "role": "100 cross-validation repetition contrast scores; imaging arrays not copied"
+  },
+  {
+    "source_file": "Figure2_background.png",
+    "sha256": "7ae48cf106714139be9bdbeed924313913381933767a57832ba1fbc1c14bf8c4",
+    "role": "Static Figure 2 map/schematic artwork; does not re-estimate maps"
+  },
+  {
+    "source_file": "RUN_MiSBIE_Figure3.m",
+    "sha256": "e6cf1296b5bd7010ced7b6cee0b66880638b20e2495951859984e1bc24c71f85",
+    "role": "Final Figure 3 analysis and plotting script"
+  },
+  {
+    "source_file": "RUN_MiSBIE_Figure2_Paired.m",
+    "sha256": "af226093c1c2e538d272f4930cfc7cc36c1734fee231bceff35e4701764252f5",
+    "role": "Final paired-score Figure 2 script"
+  },
+  {
+    "source_file": "RUN_MiSBIE_Power.m",
+    "sha256": "16a4ddc327867a1308cec2326e76e7931a2b945e3413c86c7d602ab8f9a566fa",
+    "role": "Two-group power sensitivity"
+  },
+  {
+    "source_file": "StandardAnalysis_Mito2nd.m",
+    "sha256": "c6f94790cbb4e2426cb590243d771b9e9b0faced3d843281e9a9ce41bc63ce9f",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Nback_Preprocess_Smooth_Covariate_Oneregressor.m",
+    "sha256": "ecf9440d15bec7d2fbfbac0b509bedca90d9f9c3c1fe2aa23039efb653a7ae8f",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_ColdPressor_Preprocess_Smooth_Covariate_Oneregressor.m",
+    "sha256": "28014b25a13412c17e575e8ce234be19cf171e204622ca9ed5d55a77a6b039c1",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Multisensory_Preprocess_Smooth_Covariate_Oneregressor.m",
+    "sha256": "fcd09dba41a1304dd33a78e163e6c2e1c30c32cf1fa5599afa0a62f1e7ebcc0f",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Nback_2ndLevel.m",
+    "sha256": "c73ba0d6c02960cf264d4fb2bbd243bf89173fe1e8a2dca0cddbad16f115d859",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_ColdPressor_2ndLevel.m",
+    "sha256": "ce7cd80b1300e28866fe980f7c9489afaad8d824c4049e4e4a3e85987543cf20",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "MitoFigure2.m",
+    "sha256": "233854739cbf93b283b567c17f1d8bf1b8f7a69dc39c2e6b6e5ecfcbae6dfa6e",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Figure2D_3.m",
+    "sha256": "46d63831cd0ed4fc45fec8b74263bed533ff6a83740e2477a97e6fd22e3f057b",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "MitoFigure_PatternExpression.m",
+    "sha256": "da73e455fed02fa01760a4483bc99ae1760a80b8169846e9296b89e460f2e4dc",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Rest_Connectivity_Firstlevel.m",
+    "sha256": "e167e77973ec235707ad82ff4f67d57c20d944db2c1f65ec6c22731759b5c55f",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Rest_Connectivity_Secondlevel_Canlab2024_NetworkAverage.m",
+    "sha256": "50d83acd9f75328dcca1181d2fda7e1dbd203c9463fefc8efff24820315432d1",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Rest_Connectivity_Secondlevel_Canlab2024.m",
+    "sha256": "0ab8ac941335c96669e27d49e2cf15ac32bd121802854e75ecf61d72cd2a7e5b",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "MitoRestingState.m",
+    "sha256": "06f85445485745fbb5c4f16ca0d63a3b5413304e810354e08306f51caa94e138",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Rest_Motion.m",
+    "sha256": "fb6f20925e35beff5152f9fb92787e6b3b1fdba8c9ef60269903b0e405f3174f",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Reho_2ndlevel.m",
+    "sha256": "0e345434c3a4490b7ab0e2fdcccd21181aeeb1c31bc25e4315cd9dae5cbda24e",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "ALFFScript.m",
+    "sha256": "ab5f5186a4dcc5c95956584f295f70829ac45bd404ee0c5f68969246e93a81df",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "y_alff_falff_canlab.m",
+    "sha256": "4695e73c990071567a975c11009e549ebda3c609eb45a0e1dd60bba84b314fe3",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Figure1_PartialCorr_NoFlip.m",
+    "sha256": "09d98ce2f580805d904a8f2a23ee524c721c8a21b084a1c1d79a14cab8a0bec5",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Figure1_PartialCorr_SignAligned_k11_FINAL.m",
+    "sha256": "b862dda573492cb50c82e251eae8ba290ed7ae60e352b89a056c3d31016ba62c",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "MitoFigure1_A_FDR.m",
+    "sha256": "6197517edc830ef21c2da9bbf55dd74f27d26248d2dd22b431982c5b7039e754",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "MitoFigure1_A_Wedge_FDR.m",
+    "sha256": "368312e93580bff8c41212078237d87360049c16ba107b1649892f4db4c7ba7e",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Figure4_Forrevision_CiRSquare.m",
+    "sha256": "b45f56a98fc77fd4e4f793ef6aa0d9aa288619449d2cfe97aea7b8dfc6b453d1",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "SimpleCodeForMajorAnlysis_WithFDR.m",
+    "sha256": "525e4ef52199f09c58e3f670dfd031d3ac743fec6955dc3abc8f4c2c3c643fe2",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Brain_Behavior_Correlate_Phenom_v3.m",
+    "sha256": "41660d265ffbbfa9268ed97e4dd80b9a15b793f408453190cfeff82bd0579186",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Sensitivity_Analysis_Combined.m",
+    "sha256": "12df5a56a6efa5cb082e1baf8b586e5b7c9dc8c1fecd34ce0f71c3af648a8155",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "PatientsClusterAnalysis_Updated.m",
+    "sha256": "31b4909706454ddf89ab1cff0d836224515fc3bb8bc348279fcb38d915b49cc7",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "kmeans_bootstrap_stability.m",
+    "sha256": "5d12be5bc35167ea7659d4fa1c0ca0241da4d636f58e8504d6ffcd8801db9704",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "NbackBehavior.m",
+    "sha256": "3e4f20179be4a4389920a0f61a63dff9887b7a085f30bbe65687751634cba2bd",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "Mito_Demographic.m",
+    "sha256": "3887835a76656edc3420809ec1a6e2d3b9fb92c45074e29c1afc13f67a9ae159",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "ComputeHedgeG.m",
+    "sha256": "e2305cb83c11fb03f8ca1fcc6adc50bd4b8b8b70f75f60cd554e82bb3c07589f",
+    "role": "Historical source, reference only; not the portable entry point"
+  },
+  {
+    "source_file": "MISBIE_Brain_Correlation_FDR_AgeCorrected.xlsx",
+    "sha256": "d9b8cea937fce065ec1ffc74161f10353e96e4b8f3ee70fcf197b392aab8fa45",
+    "role": "Full-precision historical external fdr() output"
+  },
+  {
+    "source_file": "MISBIE_Behavior_Correlation_FDR_AgeCorrected.xlsx",
+    "sha256": "ad156e69d6379f386afe2b5b958ef3e01ccb5ce378704ee9e07361e971121389",
+    "role": "Full-precision historical external fdr() output"
+  },
+  {
+    "source_file": "Figure1_PartialCorr_SignAligned_k11_FINAL.m",
+    "sha256": "b862dda573492cb50c82e251eae8ba290ed7ae60e352b89a056c3d31016ba62c",
+    "role": "User-confirmed Figure 1 sign-aligned k=11 pipeline"
+  },
+  {
+    "source_file": "kmeans_Matlab.m",
+    "sha256": "4bda135a0959ed3f52925696d27c3c2447f479a601ad65f0400550a1f57c88b0",
+    "role": "User-supplied explicitly named MathWorks k-means implementation"
+  }
+]

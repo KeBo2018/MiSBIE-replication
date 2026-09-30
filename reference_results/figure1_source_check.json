@@ -1,0 +1,28 @@
+{
+  "source_workbook": "Ke_DataforCorrelationMatrix_Cleaned_CK.xlsx",
+  "source_data_sha256": "9de9667f8d5076c6cb0e96c68ccad7b3d49930e13ce91d90d09764390e3ef0f8",
+  "participants": 110,
+  "patients": 40,
+  "controls": 70,
+  "numeric_variables_original": 202,
+  "numeric_variables_retained": 202,
+  "all_values_and_missingness_match_source": true,
+  "original_participant_order_preserved": true,
+  "variables_sign_inverted": 107,
+  "finite_partial_correlation_matrix": true,
+  "python_ward_cluster_sizes": [
+    6,
+    8,
+    11,
+    14,
+    14,
+    15,
+    16,
+    18,
+    18,
+    28,
+    54
+  ],
+  "MATLAB_executed": false,
+  "note": "Python verifies source data and sign alignment. Cluster label numbering, numerical rank ties, t-SNE layout, and CANlab permutation inference still need native MATLAB validation."
+}

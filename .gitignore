@@ -1,0 +1,13 @@
+outputs/
+__pycache__/
+*.pyc
+*.asv
+*.m~
+.DS_Store
+Thumbs.db
+~$*
+private_preparation_do_not_upload/
+*participant_id_lookup*
+*.nii
+*.nii.gz
+*.dcm

@@ -1,0 +1,122 @@
+[
+  {
+    "file": "code/legacy_imaging/StandardAnalysis_Mito2nd.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Nback_Preprocess_Smooth_Covariate_Oneregressor.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_ColdPressor_Preprocess_Smooth_Covariate_Oneregressor.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Multisensory_Preprocess_Smooth_Covariate_Oneregressor.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Nback_2ndLevel.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_ColdPressor_2ndLevel.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/MitoFigure2.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Figure2D_3.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/MitoFigure_PatternExpression.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Rest_Connectivity_Firstlevel.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Rest_Connectivity_Secondlevel_Canlab2024_NetworkAverage.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Rest_Connectivity_Secondlevel_Canlab2024.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/MitoRestingState.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Mito_Rest_Motion.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/Reho_2ndlevel.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/ALFFScript.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_imaging/y_alff_falff_canlab.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/Figure1_PartialCorr_NoFlip.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/Figure1_PartialCorr_SignAligned_k11_FINAL.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/MitoFigure1_A_FDR.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/MitoFigure1_A_Wedge_FDR.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/Mito_Figure4_Forrevision_CiRSquare.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/SimpleCodeForMajorAnlysis_WithFDR.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/Brain_Behavior_Correlate_Phenom_v3.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/Sensitivity_Analysis_Combined.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/PatientsClusterAnalysis_Updated.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/kmeans_bootstrap_stability.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/NbackBehavior.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/Mito_Demographic.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  },
+  {
+    "file": "code/legacy_analysis/ComputeHedgeG.m",
+    "changes": "Researcher home paths and literal study IDs redacted; historical scientific code retained."
+  }
+]

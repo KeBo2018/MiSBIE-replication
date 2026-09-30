@@ -1,0 +1,27 @@
+{
+  "participants": 110,
+  "cohort_patients": 40,
+  "cohort_controls": 70,
+  "task_samples": [
+    74,
+    90,
+    91
+  ],
+  "task_patient_samples": [
+    25,
+    28,
+    29
+  ],
+  "mediation_n": 72,
+  "TableS1_raw_variables_checked": 194,
+  "TableS1_retained_summary_variables": 20,
+  "TableS1_FDR_tests": 211,
+  "TableS2_S3_correlations_checked_each": 304,
+  "TableS2_S3_original_FDR_values_differ_from_BH": true,
+  "TableS2_S3_FDR_significance_classifications_unchanged": true,
+  "cold_pairs_omitted_from_display_only": 3,
+  "MATLAB_executed": false,
+  "CANlab_inference_recomputed": false,
+  "imaging_pipeline_rerun": false,
+  "deterministic_checks_passed": true
+}

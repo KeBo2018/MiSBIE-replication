@@ -1,0 +1,10 @@
+Outcome,Population,N,StatisticType,Statistic,P,Covariates
+GDF15 group difference,Pre-exclusion N-back imaging,81,t,6.10134922992542,3.672570785027505e-08,None
+GDF15 and NMDAS,Patients pre-exclusion,22,Spearman,0.7581582599741464,4.3501494928164094e-05,None
+GDF15 and NMDAS,Patients pre-exclusion,22,Pearson,0.7349366604073352,9.784657291083093e-05,None
+GDF15 and N-back brain,All eligible,67,Pearson,-0.48471327635370115,3.7194142135264025e-05,Group
+GDF15 and N-back brain,Patients,19,Pearson,-0.6385488365655986,0.0032557235802994538,None
+GDF15 and N-back brain,Controls,48,Pearson,-0.40748790288379166,0.004044677401336168,None
+GDF15 and N-back behavior,All eligible,67,Pearson,-0.3281308983838023,0.007151055869245475,Group
+GDF15 and N-back behavior,Patients,19,Pearson,-0.36367918899466695,0.1258712421403015,None
+GDF15 and N-back behavior,Controls,48,Pearson,-0.32557919778661326,0.023937220308791814,None

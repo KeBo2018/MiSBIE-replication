@@ -1,0 +1,8 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.18.1",
+  "platform": "Windows",
+  "MATLAB": "Not installed; not executed",
+  "analysis_date": "2026-09-30"
+}
